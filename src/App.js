@@ -1,3 +1,4 @@
+//para lenavtar la pagina colocar npm start desde la carpeta raiz
 import React, { useState } from "react";
 import "bootswatch/dist/lux/bootstrap.min.css";
 import "./App.css";

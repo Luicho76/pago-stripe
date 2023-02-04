@@ -1,3 +1,4 @@
+//Para lenvantar el sewrvidor desde la carpeta raiz usar node back-end/server/index,js
 const express = require("express");
 const Stripe = require("stripe");
 const stripe = new Stripe("sk_test_51MX4qMBK4uk3P92pqeN1rclFiih2e74rjuNYHSE4zlNGCFrfvU8nRuaL3QXPdY0jmE8kTABBvQqvgiEJtlbRmfho00nIdhzwQy"); /*Esta clave deberia estar en un .env*/
